@@ -1,0 +1,2 @@
+config:
+    info: master-lebel application-prod.yml version:1.0
